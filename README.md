@@ -1,2 +1,2 @@
 # elm-todo-list-app
-A simple todo list application with elm
+A semi working todo list app with elm
